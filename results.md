@@ -9,3 +9,13 @@ gamma_lr_scheduler = 0.1    # Learning rate reduction applied every 10 epochs.
 q_delta = 0.01              # Initial spread of random quantum weights
 re
 ```
+```
+#0.935
+n_qubits = 4                
+step = 0.0007              
+batch_size = 4              
+num_epochs = 3         
+q_depth = 4                 
+gamma_lr_scheduler = 0.1    
+q_delta = 0.01 
+```
